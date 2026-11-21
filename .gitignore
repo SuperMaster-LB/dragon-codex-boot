@@ -1,0 +1,8 @@
+build/
+dist/
+*.exe
+logs/
+qa/
+.integration/
+self-test-error.txt
+*.sha256
